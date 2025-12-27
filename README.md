@@ -86,3 +86,32 @@ The focus is on interpretability, effect size estimation, and analytical rigor.
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+## Recommendations & Actions (What Should Be Done)
+
+Based on the analysis, healthcare cost management efforts should focus on **high-impact, actionable risk factors** rather than broad population-wide interventions.
+
+### Prioritize smoking-related interventions
+- Smoking status shows a large, independent increase in medical costs.
+- Targeted smoking cessation programs can significantly reduce long-term claims.
+- Incentive-based policies or differentiated premium structures are likely to deliver the highest return on investment.
+
+### Use age for risk stratification, not intervention
+- Age is a strong predictor of healthcare costs but is non-modifiable.
+- Age should be used for:
+  - Cost forecasting
+  - Reserve planning
+  - Risk-tier and plan design
+- Age should not be treated as a direct cost-reduction lever.
+
+### Address BMI through long-term preventive strategies
+- BMI contributes incremental increases in medical costs.
+- Effective approaches include:
+  - Wellness and lifestyle programs
+  - Preventive screenings
+  - Long-term health incentives
+- These strategies support gradual cost containment rather than immediate savings.
+
+Overall, **targeted interventions focused on high-risk segments** are more effective than uniform strategies applied across the entire population.
+
+AUTHOR : MEEMANSA WALIA
